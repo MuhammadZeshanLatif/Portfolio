@@ -384,7 +384,7 @@ $(document).ready(function () {
 	
 			const innerHTML = `
 				<div class="blog-entry justify-content-end">
-					<a href="#" class="block-20 zoom-effect"  style="background-image: url('${imageLinks[i]}');">
+					<a href="#" class="block-20 zoom-effect" target="_blank" style="background-image: url('${imageLinks[i]}');">
 					</a>
 					<div class="text mt-3 float-right d-block">
 						<h3 class="heading"><a  href="#">${projectNames[i]}</a></h3>
