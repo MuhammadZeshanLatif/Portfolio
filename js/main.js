@@ -297,24 +297,24 @@ $(document).ready(function () {
 	// 	"https://github.com/MuhammadZeshanLatif/Resume.github.io/assets/110631680/58c1f763-921f-4794-8c95-dd29f94fae27", // proj_18
 	// ];
 	const imageLinks=[
-		// "https://media.giphy.com/media/SyR6laAns9iDbGcGv5/giphy.gif",
-		// "https://media.giphy.com/media/ZPsXvQfhCobuDarDU9/giphy.gif",
-		// "https://media.giphy.com/media/4eEGG5r6WlxfKMMlx8/giphy.gif",
-		// "https://media.giphy.com/media/VqYzyEWe8Hs1rg5FTw/giphy.gif",
-		// "https://media.giphy.com/media/2RdyCTsukO1bI4RXgk/giphy.gif",
-		// "https://media.giphy.com/media/5DvYqkFgMaqJdtQv3P/giphy.gif",
-		// "https://media.giphy.com/media/hIf7bGvrmOwZ69kOfb/giphy.gif",
-		// "https://media.giphy.com/media/zRdVwQ9GOdt40IpPzH/giphy.gif",
-		// "https://media.giphy.com/media/V8HLArreQqDgRILURD/giphy.gif",
-		// "https://media.giphy.com/media/kpbUYzuLyVsHutmM3f/giphy.gif",
-		// "https://media.giphy.com/media/x7CL2WdlAoo3dF4pHm/giphy.gif",
-		// "https://media.giphy.com/media/4Y8iWnsOmigoteWWN8/giphy.gif",
-		// "https://media.giphy.com/media/M8Dfv62QkMB9AK7k8Y/giphy.gif",
-		// "https://media.giphy.com/media/Gon71SLBulD55BHnM6/giphy.gif",
-		// "https://media.giphy.com/media/d4VHE0g1IeJpT2cs1C/giphy.gif",
-		// "https://media.giphy.com/media/Mq2LBQAb2o1EBjCM9B/giphy.gif",
-		// "https://media.giphy.com/media/SC52jScXovz5Lx2Lq6/giphy.gif",
-		// "https://media.giphy.com/media/8kQlB6BSHW6kBxOqaw/giphy.gif"
+		"https://media.giphy.com/media/SyR6laAns9iDbGcGv5/giphy.gif",
+		"https://media.giphy.com/media/ZPsXvQfhCobuDarDU9/giphy.gif",
+		"https://media.giphy.com/media/4eEGG5r6WlxfKMMlx8/giphy.gif",
+		"https://media.giphy.com/media/VqYzyEWe8Hs1rg5FTw/giphy.gif",
+		"https://media.giphy.com/media/2RdyCTsukO1bI4RXgk/giphy.gif",
+		"https://media.giphy.com/media/5DvYqkFgMaqJdtQv3P/giphy.gif",
+		"https://media.giphy.com/media/hIf7bGvrmOwZ69kOfb/giphy.gif",
+		"https://media.giphy.com/media/zRdVwQ9GOdt40IpPzH/giphy.gif",
+		"https://media.giphy.com/media/V8HLArreQqDgRILURD/giphy.gif",
+		"https://media.giphy.com/media/kpbUYzuLyVsHutmM3f/giphy.gif",
+		"https://media.giphy.com/media/x7CL2WdlAoo3dF4pHm/giphy.gif",
+		"https://media.giphy.com/media/4Y8iWnsOmigoteWWN8/giphy.gif",
+		"https://media.giphy.com/media/M8Dfv62QkMB9AK7k8Y/giphy.gif",
+		"https://media.giphy.com/media/Gon71SLBulD55BHnM6/giphy.gif",
+		"https://media.giphy.com/media/d4VHE0g1IeJpT2cs1C/giphy.gif",
+		"https://media.giphy.com/media/Mq2LBQAb2o1EBjCM9B/giphy.gif",
+		"https://media.giphy.com/media/SC52jScXovz5Lx2Lq6/giphy.gif",
+		"https://media.giphy.com/media/8kQlB6BSHW6kBxOqaw/giphy.gif"
 	]
 	const projectLinks = [
 		"https://revoltechdigital.com/", // Project 1
